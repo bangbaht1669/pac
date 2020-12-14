@@ -1,1 +1,1 @@
-print("lnww")
+print("lnwza")
